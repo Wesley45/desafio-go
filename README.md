@@ -26,7 +26,7 @@ O propósito desse desafio, é criar uma imagem Docker com até 2MB com GoLang
 
 Você pode visualizar a imagem do projeto no Docker Hub através do link abaixo:
 
-- [Desafio Go](https://hub.docker.com/r/wesleysantos45/codeeducation)
+- [Link do Desafio Go no Docker Hub](https://hub.docker.com/r/wesleysantos45/codeeducation)
 
 <br/>
 
